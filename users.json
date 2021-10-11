@@ -1,0 +1,38 @@
+[
+    {
+        "fullname": "Moni kumari",
+        "age": 22,
+        "username": "Moni",
+        "password": "moni19@"
+    },
+    {
+        "fullname": "Durga Dharwey",
+        "age": 20,
+        "username": "Durga",
+        "password": "durga19@"
+    },
+    {
+        "fullname": "Shanu Dharwey",
+        "age": 18,
+        "username": "Shanu",
+        "password": "shanu19@"
+    },
+    {
+        "fullname": "Pravi Bairagi",
+        "age": 23,
+        "username": "Pravi",
+        "password": "pravi19@"
+    },
+    {
+        "fullname": "Bharti Kumari",
+        "age": 22,
+        "username": "Bharti",
+        "password": "bharti19@"
+    },
+    {
+        "fullname": "Anuj Rajput",
+        "age": 23,
+        "username": "Anuj",
+        "password": "Anuj19@"
+    }
+]
